@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ePilkades</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">SELAMAT DATANG</string>
+    <string name="slide_1_desc">Anda dapat melakukan pemilihan Kepala Desa dengan mudah mengggunakan aplikasi ini.</string>
+
+    <string name="slide_2_title">LOGIN</string>
+    <string name="slide_2_desc">Masukan Nomor Induk Kependudukan (NIK) dan Nomor Telepon sebagai syarat untuk dapat melakukan pemilihan Kepala Desa.</string>
+
+    <string name="slide_3_title">PILIH</string>
+    <string name="slide_3_desc">Tentukan pilihan Anda sesuai dengan hati nurani Anda.</string>
+    <string name="slide_3_1_desc">Ingat! Jangan terpengaruh dengan orang lain.</string>
+
+    <string name="slide_4_title">SELESAI</string>
+    <string name="slide_4_desc">Terimakasih, Anda telah menyempatkan waktu untuk melakukan pemilihan Kepala Desa.</string>
+</resources>
